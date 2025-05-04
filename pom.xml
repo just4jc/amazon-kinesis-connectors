@@ -24,8 +24,8 @@
 
     <properties>
         <amazon-kinesis-client.version>1.7.2</amazon-kinesis-client.version>
-        <aws-java-sdk.version>1.11.14</aws-java-sdk.version>
-        <elasticsearch.version>1.2.1</elasticsearch.version>
+        <aws-java-sdk.version>1.12.783</aws-java-sdk.version>
+        <elasticsearch.version>7.17.25</elasticsearch.version>
         <fasterxml-jackson.version>2.6.6</fasterxml-jackson.version>
     </properties>
 
